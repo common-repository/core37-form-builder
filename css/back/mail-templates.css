@@ -1,0 +1,18 @@
+@import url(../fa/css/font-awesome.min.css);
+@import url(sweetalert.css);
+@import url(../c37-grid.css);
+@import url(../skeleton.css);
+@import url(../toastr.min.css);
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+#wpfooter {
+  display: none; }
+
+#c37-mail-templates {
+  margin-top: 20px;
+  font-family: "Varela Round", sans-serif; }
+  #c37-mail-templates label {
+    display: block;
+    margin-top: 10px;
+    color: #44749C; }
+
+/*# sourceMappingURL=mail-templates.css.map */

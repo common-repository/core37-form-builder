@@ -1,0 +1,25 @@
+html body .c37-form .c37-error-message {
+  list-style-type: none; }
+  html body .c37-form .c37-error-message li {
+    color: #a94442;
+    display: block;
+    border-left: 4px solid #F64744;
+    margin-bottom: 4px;
+    padding: 5px 10px;
+    font-size: 1em;
+    font-style: italic;
+    background-color: #f2dede; }
+html body .c37-form .c37-success-message {
+  border-left: 4px solid #6F9B63;
+  background: #b7ff5a;
+  color: #6F9B63;
+  padding: 5px 10px; }
+html body .c37-form .small-error-message {
+  font-style: italic;
+  font-size: .9em;
+  color: #a94442;
+  padding: 0 0 0 20px; }
+html body .c37-form .c37-field-error {
+  background-color: #ffcccc !important; }
+
+/*# sourceMappingURL=form-validation.css.map */
